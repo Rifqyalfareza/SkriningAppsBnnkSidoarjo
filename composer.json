@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "vinkla/hashids": "^13.0"
+    }
+}
